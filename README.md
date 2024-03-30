@@ -1,7 +1,7 @@
 ## Getting Started
 
 Meus Primeiros Passos em Java.
-Este repositório foi criado para registrar meus primeiros passos na linguagem de programação Java. Aqui, documentarei minha jornada de aprendizado, compreendendo os conceitos fundamentais de Java, como classes, herança e polimorfismo. Este README serve como um guia inicial para quem está começando a explorar Java e deseja entender esses conceitos.
+Este repositório foi criado para registrar meus primeiros passos na linguagem Java. Documentarei minha jornada de aprendizado, compreendendo os conceitos fundamentais de Java, como classes, herança e polimorfismo.
 
 ## Folder Structure
 
